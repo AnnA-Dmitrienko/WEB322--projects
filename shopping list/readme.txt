@@ -1,4 +1,4 @@
-shopping list app to do the following:
+Make a shopping list app to do the following:
 
 1. If you click on the list item, it toggles the .done  class on and off.
 
